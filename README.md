@@ -1,8 +1,8 @@
 rest-service
 ============
 
-Belajar membuat Restful web service dengan spring boot.
+Sample Belajar membuat Restful web service dengan spring boot.
 
-buka menggunakan browser
-http://localhost:8080/greeting
-http://localhost:8080/greeting?name=User
+Buka menggunakan browser
+- http://localhost:8080/greeting
+- http://localhost:8080/greeting?name=Danang Cakep
